@@ -2,6 +2,7 @@
 
 namespace PragmaGoTech\Interview;
 
+use PragmaGoTech\Interview\Contracts\FeeCalculator;
 use PragmaGoTech\Interview\Exceptions\AmountOutOfRangeException;
 use PragmaGoTech\Interview\Model\Loan;
 

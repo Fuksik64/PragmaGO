@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PragmaGoTech\Interview;
+namespace PragmaGoTech\Interview\Contracts;
 
 use PragmaGoTech\Interview\Model\Loan;
 
