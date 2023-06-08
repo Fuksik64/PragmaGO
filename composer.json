@@ -1,0 +1,26 @@
+{
+    "name": "pragmagotech/interview",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Piotr Ścibor",
+            "email": "piotr.scibor@pragmago.tech"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PragmaGoTech\\Interview\\": "src/"
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.23"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
